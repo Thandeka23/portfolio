@@ -451,6 +451,12 @@ nav.scrolled .btn {
   margin-top: -5px;
   margin-bottom: -3px;
 }
+.project-container .project-box h3{
+  text-decoration: underline;
+}
+.project-container .project-box .left{
+  text-align: left;
+}
 
 /* Adjusted Label Styling */
 .project-box label {
